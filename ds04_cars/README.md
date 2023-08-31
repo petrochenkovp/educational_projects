@@ -24,3 +24,15 @@
 
 ## Стек
 python, pandas, matplotlib, sklearn, catboost, lightgbm
+
+<br><br>
+
+Код проекта: [cars.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds04_cars/cars.ipynb)
+
+<br><br>
+
+Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
