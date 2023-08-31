@@ -19,3 +19,15 @@
 
 ## Стек
 python, pandas, numpy, matplotlib, nltk, sklearn, catboost
+
+<br><br>
+
+Код проекта: [shop.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds05_shop/shop.ipynb)
+
+<br><br>
+
+Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
