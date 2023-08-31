@@ -24,3 +24,15 @@
 
 ## Стек
 python, pandas, matplotlib
+
+<br><br>
+
+Код проекта: [realty.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds01_realty/realty.ipynb)
+
+<br><br>
+
+Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
