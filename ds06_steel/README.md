@@ -27,6 +27,8 @@ python, pandas, matplotlib, seaborn, sklearn, catboost, lightgbm
 
 <br><br>
 
+Ещё [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
 Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
