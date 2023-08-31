@@ -27,3 +27,15 @@
 
 ## Стек
 python, pandas, numpy, matplotlib, seaborn, sklearn
+
+<br><br>
+
+Код проекта: [gold.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds03_gold/gold.ipynb)
+
+<br><br>
+
+Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
