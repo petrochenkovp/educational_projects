@@ -57,3 +57,15 @@
 
 ## Стек
 pandas, numpy, matplotlib, seaborn, scipy
+
+<br><br>
+
+Код проекта: [games.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds02_games/games.ipynb)
+
+<br><br>
+
+Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
+
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
