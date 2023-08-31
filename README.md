@@ -52,6 +52,6 @@
 
 <br><br>
 
-Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
+Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
