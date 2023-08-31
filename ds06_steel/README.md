@@ -24,3 +24,9 @@
 
 ## Стек
 python, pandas, matplotlib, seaborn, sklearn, catboost, lightgbm
+
+<br><br>
+
+Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
+
+<br><br>
