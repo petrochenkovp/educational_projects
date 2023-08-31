@@ -29,6 +29,8 @@ python, pandas, matplotlib, seaborn, sklearn, catboost, lightgbm
 
 Код проекта: [steel.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds06_steel/steel.ipynb)
 
+<br><br>
+
 Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
 
 Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
