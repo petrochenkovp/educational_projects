@@ -41,6 +41,6 @@ python, pandas, numpy, matplotlib, seaborn, sklearn
 
 Посмотреть другие [учебные проекты](https://github.com/petrochenkovp/educational_projects)
 
-Посмотреть [все проекты](https://github.com/petrochenkovp/portfolio)
+Посмотреть все проекты в [портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
