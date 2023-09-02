@@ -21,7 +21,11 @@ python, pandas, matplotlib, seaborn, sklearn, catboost, lightgbm
 
 <br><br>
 
-Код 1-й части проекта: [steel.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/ds06_steel/steel.ipynb)
+Код 1-й части проекта (разведочный анализ данных): [internship_1_eda.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/da01_job_market/internship_1_eda.ipynb)
+
+Код 2-й части проекта (очистка и подготовка датасета): [internship_2_data_prep.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/da01_job_market/internship_2_data_prep.ipynb)
+
+Код 3-й части проекта (статистический анализ данных): [internship_3_statistics.ipynb](https://github.com/petrochenkovp/educational_projects/blob/main/da01_job_market/internship_3_statistics.ipynb)
 
 <br><br>
 
