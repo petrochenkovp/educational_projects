@@ -17,7 +17,7 @@
 - В ходе исследовательского анализа
 
 ## Стек
-python, pandas, matplotlib, seaborn, sklearn, catboost, lightgbm
+python, pandas, numpy, matplotlib, seaborn, scipy, sklearn, statsmodels
 
 <br><br>
 
